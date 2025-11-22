@@ -1,0 +1,1142 @@
+[
+  {
+    "nome": "Fortnite",
+    "descricao": "Crie, jogue e batalhe com seus amigos gratuitamente no Fortnite. Seja a última pessoa de pé no Battle Royale e na Trocação, experimente shows e eventos ao vivo, ou descubra mais de um milhão de jogos feitos por criadores, incluindo corridas, parkour, sobrevivência zumbi e mais. Cada Ilha do Fortnite recebe uma classificação etária, basta achar a Ilha ideal para você e suas amizades. Tudo isso no Fortnite! ... Entre.",
+    "ano": 2017,
+    "link": "https://store.epicgames.com/pt-BR/p/fortnite",
+    "imagem": "images/fortnite.jpg",
+    "tags": [
+      "Battle Royale",
+      "Sandbox",
+      "Construção",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "League of Legends",
+    "descricao": "League of Legends é um jogo de estratégia em equipe no qual duas equipes de cinco poderosos Campeões se enfrentam para destruir a base uma da outra. Escolha entre mais de 140 Campeões para fazer jogadas épicas, garantir abates e destruir torres enquanto avança rumo à vitória.",
+    "ano": 2009,
+    "link": "https://www.leagueoflegends.com/pt-br/",
+    "imagem": "images/league-of-legends.jpg",
+    "tags": [
+      "MOBA",
+      "Estratégia",
+      "Multiplayer",
+      "Competitivo",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Valorant",
+    "descricao": "Um jogo de tiro tático 5x5 com personagens originais e jogabilidade de alta precisão. Misture seu estilo e experiência em um palco global e competitivo. Você terá 13 rodadas para atacar e defender com disparos certeiros e habilidades táticas.",
+    "ano": 2020,
+    "link": "https://playvalorant.com/pt-br/",
+    "imagem": "images/valorant.jpg",
+    "tags": [
+      "Tiro Tático",
+      "FPS",
+      "Multiplayer",
+      "Competitivo",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Counter-Strike 2",
+    "descricao": "Por mais de duas décadas, milhões de jogadores de todo o mundo têm lutado em Counter-Strike. Agora, o próximo capítulo da história do CS está prestes a começar. Este é o Counter-Strike 2. Uma atualização gratuita para o CS:GO, o Counter-Strike 2 representa o maior salto tecnológico na história da série.",
+    "ano": 2023,
+    "link": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "imagem": "images/counter-strike-2.jpg",
+    "tags": [
+      "Tiro Tático",
+      "FPS",
+      "Multiplayer",
+      "Competitivo",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Apex Legends",
+    "descricao": "Apex Legends é o premiado jogo de tiro de heróis e heroínas gratuito da Respawn Entertainment. Domine um elenco cada vez maior de Lendas com habilidades poderosas, jogue com estratégia e tática e inove o gênero Battle Royale. Junte-se à nova evolução do Battle Royale.",
+    "ano": 2019,
+    "link": "https://www.ea.com/pt-br/games/apex-legends",
+    "imagem": "images/apex-legends.jpg",
+    "tags": [
+      "Battle Royale",
+      "Tiro de Heróis",
+      "FPS",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Minecraft",
+    "descricao": "Explore seu próprio mundo, sobreviva à noite e crie qualquer coisa que puder imaginar! Minecraft é um jogo sobre quebrar e colocar blocos. No início, as pessoas construíam estruturas para se proteger contra monstros noturnos, mas com o passar do tempo os jogadores trabalharam juntos para criar coisas maravilhosas e imaginativas.",
+    "ano": 2011,
+    "link": "https://www.minecraft.net/pt-br",
+    "imagem": "images/minecraft.jpg",
+    "tags": [
+      "Sandbox",
+      "Sobrevivência",
+      "Construção",
+      "Mundo Aberto",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Genshin Impact",
+    "descricao": "Genshin Impact é um RPG de ação de mundo aberto. No jogo, você irá explorar Teyvat, um mundo de fantasia fantástico, onde os sete elementos fluem e convergem. Você assumirá o papel de um misterioso 'Viajante', que embarca em uma jornada para encontrar seu irmão perdido e desvendar os muitos mistérios de Teyvat ao longo do caminho.",
+    "ano": 2020,
+    "link": "https://genshin.hoyoverse.com/pt/",
+    "imagem": "images/genshin-impact.jpg",
+    "tags": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Gacha",
+      "Aventura",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Overwatch 2",
+    "descricao": "Overwatch 2 é um jogo de tiro em equipe aclamado pela crítica, ambientado em um futuro otimista, com um elenco crescente de heróis. Junte-se aos seus amigos e entre na ação. É um jogo de ação em equipe 5v5, grátis para jogar, com novos heróis, mapas e modos de jogo.",
+    "ano": 2022,
+    "link": "https://overwatch.blizzard.com/pt-br/",
+    "imagem": "images/overwatch-2.jpg",
+    "tags": [
+      "Tiro de Heróis",
+      "FPS",
+      "Ação",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Rocket League",
+    "descricao": "Baixe e compita neste híbrido de alta octanagem de futebol estilo arcade e destruição veicular! Desbloqueie itens no Rocket Pass, suba nos Rankings Competitivos, participe de Torneios Competitivos, complete Desafios, aproveite a progressão multiplataforma e muito mais! O campo está esperando.",
+    "ano": 2015,
+    "link": "https://www.rocketleague.com/pt-br/",
+    "imagem": "images/rocket-league.jpg",
+    "tags": [
+      "Esportes",
+      "Arcade",
+      "Carros",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Among Us",
+    "descricao": "Um jogo de trabalho em equipe e traição para 4 a 15 jogadores... no espaço! Jogue com seus amigos para tentar manter sua nave espacial funcionando e retornar à civilização. Mas cuidado... pois pode haver um impostor alienígena a bordo!",
+    "ano": 2018,
+    "link": "https://www.innersloth.com/games/among-us/",
+    "imagem": "images/among-us.jpg",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Party Game",
+      "Multiplayer",
+      "Casual"
+    ]
+  },
+  {
+    "nome": "World of Warcraft",
+    "descricao": "Entre no mundo de Azeroth, um universo online de mitos, magia e aventuras sem fim. Explore um mundo em constante expansão com milhões de outros jogadores.",
+    "ano": 2004,
+    "link": "https://worldofwarcraft.blizzard.com/pt-br/",
+    "imagem": "images/world-of-warcraft.jpg",
+    "tags": [
+      "MMORPG",
+      "Mundo Aberto",
+      "Fantasia",
+      "Aventura",
+      "PvE"
+    ]
+  },
+  {
+    "nome": "Final Fantasy XIV",
+    "descricao": "Junte-se a milhões de aventureiros em todo o mundo em um aclamado MMORPG. Explore o reino de Eorzea e experimente uma história inesquecível.",
+    "ano": 2013,
+    "link": "https://www.finalfantasyxiv.com/",
+    "imagem": "images/final-fantasy-xiv.jpg",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "História Rica",
+      "PvE",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "The Elder Scrolls Online",
+    "descricao": "Experimente uma história em constante expansão por toda Tamriel em The Elder Scrolls Online, um premiado RPG online. Explore um mundo rico e vivo com amigos ou embarque em uma aventura solo.",
+    "ano": 2014,
+    "link": "https://www.elderscrollsonline.com/en-us/home",
+    "imagem": "images/the-elder-scrolls-online.jpg",
+    "tags": [
+      "MMORPG",
+      "Mundo Aberto",
+      "Fantasia",
+      "Aventura",
+      "RPG"
+    ]
+  },
+  {
+    "nome": "Destiny 2",
+    "descricao": "Mergulhe no mundo de Destiny 2 para explorar os mistérios do sistema solar e experimentar um combate de tiro em primeira pessoa responsivo. É um jogo de ação MMO com um mundo único e em evolução.",
+    "ano": 2017,
+    "link": "https://www.bungie.net/7/pt-br/Destiny/NewLight",
+    "imagem": "images/destiny-2.jpg",
+    "tags": [
+      "MMO de Ação",
+      "FPS",
+      "Ficção Científica",
+      "Looter Shooter",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Warframe",
+    "descricao": "Acorde como um guerreiro imparável e lute ao lado de seus amigos neste jogo de ação online gratuito, focado em história e ambientado em um mundo de ficção científica em evolução.",
+    "ano": 2013,
+    "link": "https://www.warframe.com/pt-br",
+    "imagem": "images/warframe.jpg",
+    "tags": [
+      "MMO de Ação",
+      "Looter Shooter",
+      "Ficção Científica",
+      "PvE",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Path of Exile",
+    "descricao": "Você é um Exilado, lutando para sobreviver no continente sombrio de Wraeclast, enquanto luta para ganhar poder que lhe permitirá exigir sua vingança contra aqueles que o injustiçaram. Path of Exile é um RPG de Ação online.",
+    "ano": 2013,
+    "link": "https://br.pathofexile.com/",
+    "imagem": "images/path-of-exile.jpg",
+    "tags": [
+      "RPG de Ação",
+      "Hack and Slash",
+      "Fantasia Sombria",
+      "Looter",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Dota 2",
+    "descricao": "Todos os dias, milhões de jogadores em todo o mundo entram na batalha como um dos mais de cem Heróis do Dota. E não importa se é a 10ª ou a 1.000ª hora de jogo, sempre há algo novo para descobrir.",
+    "ano": 2013,
+    "link": "https://www.dota2.com/home",
+    "imagem": "images/dota-2.jpg",
+    "tags": [
+      "MOBA",
+      "Estratégia",
+      "Multiplayer",
+      "Competitivo",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "PUBG: Battlegrounds",
+    "descricao": "Pouse em locais estratégicos, saqueie armas e suprimentos e sobreviva para se tornar a última equipe de pé em diversos e variados campos de batalha. PUBG: BATTLEGROUNDS é um jogo de tiro battle royale.",
+    "ano": 2017,
+    "link": "https://pubg.com/pt-br",
+    "imagem": "images/pubg-battlegrounds.jpg",
+    "tags": [
+      "Battle Royale",
+      "Tiro Tático",
+      "Multiplayer",
+      "Sobrevivência",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Call of Duty: Warzone",
+    "descricao": "Bem-vindo ao Warzone, a gigantesca arena de combate gratuita dentro do universo de Call of Duty. Junte-se aos seus amigos e mergulhe em um campo de batalha massivo.",
+    "ano": 2020,
+    "link": "https://www.callofduty.com/br/pt/warzone",
+    "imagem": "images/call-of-duty-warzone.jpg",
+    "tags": [
+      "Battle Royale",
+      "FPS",
+      "Multiplayer",
+      "Ação",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Sea of Thieves",
+    "descricao": "Sea of Thieves oferece a experiência pirata essencial, desde navegar e lutar até explorar e saquear - tudo o que você precisa para viver a vida de pirata e se tornar uma lenda por seus próprios méritos.",
+    "ano": 2018,
+    "link": "https://www.seaofthieves.com/pt-br",
+    "imagem": "images/sea-of-thieves.jpg",
+    "tags": [
+      "Aventura",
+      "Mundo Aberto",
+      "Piratas",
+      "Multiplayer",
+      "Cooperativo"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "O único objetivo em Rust é sobreviver. Para fazer isso, você precisará superar lutas como fome, sede e frio. Construa um fogo. Construa um abrigo. Mate animais. Proteja-se de outros jogadores.",
+    "ano": 2018,
+    "link": "https://rust.facepunch.com/",
+    "imagem": "images/rust.jpg",
+    "tags": [
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Construção",
+      "PvP",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "DayZ",
+    "descricao": "DayZ é um jogo de sobrevivência hardcore de mundo aberto com uma única regra: sobreviva a qualquer custo. Mas com uma miríade de ameaças à espreita em cada esquina, isso pode ser mais fácil de falar do que fazer.",
+    "ano": 2018,
+    "link": "https://dayz.com/",
+    "imagem": "images/dayz.jpg",
+    "tags": [
+      "Sobrevivência",
+      "Hardcore",
+      "Mundo Aberto",
+      "Zumbis",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Escape from Tarkov",
+    "descricao": "Escape from Tarkov é um jogo de tiro em primeira pessoa hardcore e realista, um simulador de combate com elementos de MMO e uma campanha baseada em história.",
+    "ano": 2017,
+    "link": "https://www.escapefromtarkov.com/",
+    "imagem": "images/escape-from-tarkov.jpg",
+    "tags": [
+      "Tiro Tático",
+      "FPS",
+      "Hardcore",
+      "Simulação",
+      "Looter Shooter"
+    ]
+  },
+  {
+    "nome": "Black Desert Online",
+    "descricao": "Black Desert Online é um MMORPG de ação de mundo aberto com visuais de ponta e um sistema de combate baseado em habilidades que redefinirá suas expectativas do gênero.",
+    "ano": 2016,
+    "link": "https://www.sa.playblackdesert.com/pt-BR/Main/Index",
+    "imagem": "images/black-desert-online.jpg",
+    "tags": [
+      "MMORPG",
+      "Ação",
+      "Mundo Aberto",
+      "Fantasia",
+      "PvP"
+    ]
+  },
+  {
+    "nome": "Guild Wars 2",
+    "descricao": "Guild Wars 2 é um MMORPG com combate de ação dinâmico, um mundo rico e detalhado para explorar, e não requer taxa de assinatura!",
+    "ano": 2012,
+    "link": "https://www.guildwars2.com/en/",
+    "imagem": "images/guild-wars-2.jpg",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Mundo Aberto",
+      "PvE",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Star Wars: The Old Republic",
+    "descricao": "Star Wars: The Old Republic é o único jogo online multiplayer massivo com uma opção Free-to-Play que o coloca no centro de sua própria saga Star Wars baseada em histórias.",
+    "ano": 2011,
+    "link": "https://www.swtor.com/",
+    "imagem": "images/star-wars-the-old-republic.jpg",
+    "tags": [
+      "MMORPG",
+      "Ficção Científica",
+      "Star Wars",
+      "História Rica",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "EVE Online",
+    "descricao": "EVE Online é um MMORPG de ficção científica espacial, no qual os jogadores podem participar de várias profissões e atividades no jogo, incluindo mineração, pirataria, fabricação, comércio, exploração e combate.",
+    "ano": 2003,
+    "link": "https://www.eveonline.com/",
+    "imagem": "images/eve-online.jpg",
+    "tags": [
+      "MMORPG",
+      "Sandbox",
+      "Ficção Científica",
+      "Espacial",
+      "Simulação"
+    ]
+  },
+  {
+    "nome": "Albion Online",
+    "descricao": "Albion Online é um MMORPG sandbox de fantasia, com uma economia impulsionada pelos jogadores, sistema de combate sem classes e intensas batalhas PvP.",
+    "ano": 2017,
+    "link": "https://albiononline.com/pt/home",
+    "imagem": "images/albion-online.jpg",
+    "tags": [
+      "MMORPG",
+      "Sandbox",
+      "Fantasia",
+      "PvP",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "RuneScape",
+    "descricao": "RuneScape é um MMORPG de fantasia de mundo aberto. Explore um mundo em constante mudança, onde novos desafios, habilidades e missões aguardam.",
+    "ano": 2001,
+    "link": "https://www.runescape.com/community",
+    "imagem": "images/runescape.jpg",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Mundo Aberto",
+      "Sandbox",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Lost Ark",
+    "descricao": "Embarque em uma odisseia pelo Mundo Perdido em um vasto e vibrante mundo: explore novas terras, procure por tesouros perdidos e teste a si mesmo em um emocionante combate de ação neste RPG de ação gratuito.",
+    "ano": 2022,
+    "link": "https://www.playlostark.com/pt-br",
+    "imagem": "images/lost-ark.jpg",
+    "tags": [
+      "MMORPG",
+      "RPG de Ação",
+      "Hack and Slash",
+      "Fantasia",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "New World",
+    "descricao": "Explore um emocionante MMO de mundo aberto cheio de perigos e oportunidades, onde você forjará um novo destino na ilha sobrenatural de Aeternum.",
+    "ano": 2021,
+    "link": "https://www.newworld.com/pt-br",
+    "imagem": "images/new-world.jpg",
+    "tags": [
+      "MMORPG",
+      "Mundo Aberto",
+      "Aventura",
+      "PvP",
+      "Construção"
+    ]
+  },
+  {
+    "nome": "Phasmophobia",
+    "descricao": "Phasmophobia é um jogo de terror psicológico cooperativo online para 4 jogadores. A atividade paranormal está em alta e cabe a você e sua equipe usar todo o equipamento de caça a fantasmas à sua disposição para reunir o máximo de evidências possível.",
+    "ano": 2020,
+    "link": "https://store.steampowered.com/app/739630/Phasmophobia/",
+    "imagem": "images/phasmophobia.jpg",
+    "tags": [
+      "Terror",
+      "Cooperativo",
+      "Psicológico",
+      "Investigação",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Dead by Daylight",
+    "descricao": "Dead by Daylight é um jogo de terror multiplayer (4vs1) onde um jogador assume o papel do Assassino selvagem, e os outros quatro jogadores jogam como Sobreviventes, tentando escapar do Assassino.",
+    "ano": 2016,
+    "link": "https://deadbydaylight.com/",
+    "imagem": "images/dead-by-daylight.jpg",
+    "tags": [
+      "Terror",
+      "Multiplayer Assimétrico",
+      "Sobrevivência",
+      "Ação",
+      "PvP"
+    ]
+  },
+  {
+    "nome": "Fall Guys",
+    "descricao": "Fall Guys é um jogo de festa massivamente multiplayer gratuito, onde hordas de competidores desajeitados se enfrentam em rodadas cada vez mais caóticas de gincanas até que um vencedor permaneça!",
+    "ano": 2020,
+    "link": "https://www.fallguys.com/pt-BR",
+    "imagem": "images/fall-guys.jpg",
+    "tags": [
+      "Party Game",
+      "Plataforma",
+      "Multiplayer Massivo",
+      "Casual",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Stardew Valley",
+    "descricao": "Você herdou a antiga fazenda do seu avô em Stardew Valley. Armado com ferramentas de segunda mão e algumas moedas, você parte para começar sua nova vida. Pode ser jogado em modo cooperativo online.",
+    "ano": 2016,
+    "link": "https://www.stardewvalley.net/",
+    "imagem": "images/stardew-valley.jpg",
+    "tags": [
+      "Simulação de Fazenda",
+      "RPG",
+      "Cooperativo",
+      "Pixel Art",
+      "Indie"
+    ]
+  },
+  {
+    "nome": "Terraria",
+    "descricao": "Cave, lute, explore, construa! Nada é impossível neste jogo de aventura cheio de ação. O mundo é sua tela e o próprio chão é sua pintura. Jogue com amigos em modo multiplayer.",
+    "ano": 2011,
+    "link": "https://terraria.org/",
+    "imagem": "images/terraria.jpg",
+    "tags": [
+      "Sandbox",
+      "Aventura",
+      "Ação",
+      "Construção",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Valheim",
+    "descricao": "Um brutal jogo de exploração e sobrevivência para 1-10 jogadores, ambientado em um purgatório gerado proceduralmente e inspirado na cultura viking. Lute, construa e conquiste seu caminho para uma saga digna da bênção de Odin!",
+    "ano": 2021,
+    "link": "https://www.valheimgame.com/",
+    "imagem": "images/valheim.jpg",
+    "tags": [
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Vikings",
+      "Construção",
+      "Cooperativo"
+    ]
+  },
+  {
+    "nome": "Palworld",
+    "descricao": "Lute, cultive, construa e trabalhe ao lado de misteriosas criaturas chamadas 'Pals' neste jogo de sobrevivência e criação de monstros multiplayer de mundo aberto.",
+    "ano": 2024,
+    "link": "https://www.pocketpair.jp/palworld",
+    "imagem": "images/palworld.jpg",
+    "tags": [
+      "Sobrevivência",
+      "Criação de Monstros",
+      "Mundo Aberto",
+      "Construção",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Helldivers 2",
+    "descricao": "A última linha de ataque da Galáxia. Aliste-se nos Helldivers e junte-se à luta pela liberdade em uma galáxia hostil neste jogo de tiro em terceira pessoa cooperativo, rápido, frenético e feroz.",
+    "ano": 2024,
+    "link": "https://www.playstation.com/pt-br/games/helldivers-2/",
+    "imagem": "images/helldivers-2.jpg",
+    "tags": [
+      "Tiro Cooperativo",
+      "Ação",
+      "Ficção Científica",
+      "Terceira Pessoa",
+      "PvE"
+    ]
+  },
+  {
+    "nome": "The Division 2",
+    "descricao": "Em Tom Clancy's The Division 2, o destino do mundo livre está em jogo. Lidere uma equipe de agentes de elite em uma Washington, D.C. pós-pandemia para restaurar a ordem e evitar o colapso da cidade.",
+    "ano": 2019,
+    "link": "https://www.ubisoft.com/pt-br/game/the-division/the-division-2",
+    "imagem": "images/the-division-2.jpg",
+    "tags": [
+      "Looter Shooter",
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Cooperativo",
+      "Pós-apocalíptico"
+    ]
+  },
+  {
+    "nome": "Rainbow Six Siege",
+    "descricao": "Tom Clancy's Rainbow Six Siege é um jogo de tiro tático de elite e realista, onde planejamento e execução superiores triunfam. Apresenta jogabilidade 5v5 de ataque vs. defesa e combate intenso em ambientes destrutíveis.",
+    "ano": 2015,
+    "link": "https://www.ubisoft.com/pt-br/game/rainbow-six/siege",
+    "imagem": "images/rainbow-six-siege.jpg",
+    "tags": [
+      "Tiro Tático",
+      "FPS",
+      "Competitivo",
+      "Multiplayer",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "For Honor",
+    "descricao": "Entre no caos da guerra como um Cavaleiro, Viking ou Samurai. Empunhe sua arma como nunca antes com o inovador sistema de controle Arte da Batalha, que lhe dá controle total sobre seu guerreiro.",
+    "ano": 2017,
+    "link": "https://www.ubisoft.com/pt-br/game/for-honor",
+    "imagem": "images/for-honor.jpg",
+    "tags": [
+      "Luta",
+      "Ação",
+      "Medieval",
+      "Multiplayer",
+      "PvP"
+    ]
+  },
+  {
+    "nome": "Smite",
+    "descricao": "Junte-se a mais de 40 milhões de jogadores em SMITE, o campo de batalha dos deuses mais popular do mundo. Torne-se uma lenda do mito, entre no campo de batalha dos deuses e jogue de graça agora!",
+    "ano": 2014,
+    "link": "https://www.smitegame.com/",
+    "imagem": "images/smite.jpg",
+    "tags": [
+      "MOBA",
+      "Ação",
+      "Mitologia",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Paladins",
+    "descricao": "Junte-se a mais de 50 milhões de jogadores em Paladins, o jogo de tiro de fantasia em equipe gratuito. Use magia e armas como um lendário Campeão do Reino, personalizando seu conjunto principal de habilidades para jogar exatamente como você quer.",
+    "ano": 2018,
+    "link": "https://www.paladins.com/",
+    "imagem": "images/paladins.jpg",
+    "tags": [
+      "Tiro de Heróis",
+      "FPS",
+      "Fantasia",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Hearthstone",
+    "descricao": "Enganosamente simples e insanamente divertido, Hearthstone é um jogo de cartas de estratégia em ritmo acelerado da Blizzard Entertainment. Jogue de graça e comande seus lacaios em duelos épicos.",
+    "ano": 2014,
+    "link": "https://hearthstone.blizzard.com/pt-br",
+    "imagem": "images/hearthstone.jpg",
+    "tags": [
+      "Jogo de Cartas",
+      "Estratégia",
+      "Colecionável",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Magic: The Gathering Arena",
+    "descricao": "Bem-vindo ao multiverso digital! Magic: The Gathering é o jogo de cartas de estratégia original - e agora você pode baixar e começar a jogar de graça com seus amigos de qualquer lugar!",
+    "ano": 2019,
+    "link": "https://magic.wizards.com/pt-br/mtgarena",
+    "imagem": "images/magic-the-gathering-arena.jpg",
+    "tags": [
+      "Jogo de Cartas",
+      "Estratégia",
+      "Colecionável",
+      "Fantasia",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Gwent: The Witcher Card Game",
+    "descricao": "Comande um exército poderoso e lute contra seus amigos em duelos multiplayer dinâmicos. Com um sistema de progressão justo e divertido, Gwent é um jogo de cartas de habilidade, não de sorte.",
+    "ano": 2018,
+    "link": "https://www.playgwent.com/pt-BR",
+    "imagem": "images/gwent.jpg",
+    "tags": [
+      "Jogo de Cartas",
+      "Estratégia",
+      "The Witcher",
+      "Fantasia",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Team Fortress 2",
+    "descricao": "Um dos jogos de ação online mais populares, Team Fortress 2 oferece atualizações constantes com novos modos de jogo, mapas, equipamentos e, o mais importante, chapéus. Nove classes distintas fornecem uma ampla gama de habilidades táticas.",
+    "ano": 2007,
+    "link": "https://www.teamfortress.com/",
+    "imagem": "images/team-fortress-2.jpg",
+    "tags": [
+      "Tiro de Heróis",
+      "FPS",
+      "Ação",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Ark: Survival Evolved",
+    "descricao": "Preso nu, congelando e morrendo de fome em uma ilha misteriosa, você deve caçar, colher, criar itens, cultivar e construir abrigos para sobreviver. Use habilidade e astúcia para matar, domar, criar e montar Dinossauros e outras criaturas primitivas.",
+    "ano": 2017,
+    "link": "https://survivetheark.com/",
+    "imagem": "images/ark-survival-evolved.jpg",
+    "tags": [
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Dinossauros",
+      "Construção",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "No Man's Sky",
+    "descricao": "No Man's Sky é um jogo sobre exploração e sobrevivência em um universo infinito gerado proceduralmente. Quer você seja um lutador, um comerciante ou um explorador, cada estrela é a luz de um sol distante, cada um orbitado por planetas cheios de vida.",
+    "ano": 2016,
+    "link": "https://www.nomanssky.com/",
+    "imagem": "images/no-mans-sky.jpg",
+    "tags": [
+      "Exploração Espacial",
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Sandbox",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "GTA Online",
+    "descricao": "Grand Theft Auto V para PC oferece aos jogadores a opção de explorar o premiado mundo de Los Santos e Blaine County, bem como o dinâmico e sempre em evolução Grand Theft Auto Online.",
+    "ano": 2013,
+    "link": "https://www.rockstargames.com/br/gta-online",
+    "imagem": "images/gta-online.jpg",
+    "tags": [
+      "Mundo Aberto",
+      "Ação",
+      "Aventura",
+      "Multiplayer",
+      "Crime"
+    ]
+  },
+  {
+    "nome": "Red Dead Online",
+    "descricao": "Saia por conta própria ou forme uma Posse para cavalgar em Red Dead Online. Envolva-se em confrontos com gangues rivais, cace, pesque e negocie, procure tesouros exóticos, administre sua própria destilaria clandestina e muito mais.",
+    "ano": 2018,
+    "link": "https://www.rockstargames.com/br/reddeadonline",
+    "imagem": "images/red-dead-online.jpg",
+    "tags": [
+      "Mundo Aberto",
+      "Velho Oeste",
+      "Aventura",
+      "Multiplayer",
+      "RPG"
+    ]
+  },
+  {
+    "nome": "Monster Hunter: World",
+    "descricao": "Bem-vindo a um novo mundo! Assuma o papel de um caçador e mate monstros ferozes em um ecossistema vivo e pulsante, onde você pode usar a paisagem e seus diversos habitantes para obter a vantagem. Cace sozinho ou em modo cooperativo com até três outros jogadores.",
+    "ano": 2018,
+    "link": "https://www.monsterhunterworld.com/",
+    "imagem": "images/monster-hunter-world.jpg",
+    "tags": [
+      "RPG de Ação",
+      "Caça de Monstros",
+      "Cooperativo",
+      "Aventura",
+      "PvE"
+    ]
+  },
+  {
+    "nome": "War Thunder",
+    "descricao": "War Thunder é o mais abrangente jogo militar MMO gratuito e multiplataforma dedicado à aviação, veículos blindados e embarcações navais da Segunda Guerra Mundial e da Guerra Fria.",
+    "ano": 2013,
+    "link": "https://warthunder.com/br",
+    "imagem": "images/war-thunder.jpg",
+    "tags": [
+      "Simulação de Combate",
+      "MMO",
+      "Veicular",
+      "Militar",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "World of Tanks",
+    "descricao": "Mergulhe em batalhas épicas de tanques com outros jogadores de todo o mundo. Escolha entre mais de 600 veículos blindados e mergulhe em um mundo de combate intenso.",
+    "ano": 2010,
+    "link": "https://worldoftanks.com/",
+    "imagem": "images/world-of-tanks.jpg",
+    "tags": [
+      "MMO de Ação",
+      "Combate Veicular",
+      "Tanques",
+      "Multiplayer",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "World of Warships",
+    "descricao": "Experimente um combate naval épico e gratuito ao comandar uma das mais de 350 embarcações históricas em um emocionante equilíbrio de estratégia e combate em tempo real em World of Warships.",
+    "ano": 2015,
+    "link": "https://worldofwarships.com/",
+    "imagem": "images/world-of-warships.jpg",
+    "tags": [
+      "MMO de Ação",
+      "Combate Naval",
+      "Navios",
+      "Estratégia",
+      "Grátis para Jogar"
+    ]
+  },
+  {
+    "nome": "Star Citizen",
+    "descricao": "Star Citizen é um recordista de crowdfunding, um épico espacial de ficção científica para PC. O jogo é um universo multiplayer massivo que combina gêneros de simulação espacial, combate e tiro em primeira pessoa.",
+    "ano": 2024,
+    "link": "https://robertsspaceindustries.com/",
+    "imagem": "images/star-citizen.jpg",
+    "tags": [
+      "Simulação Espacial",
+      "MMO",
+      "Ficção Científica",
+      "Sandbox",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Elite Dangerous",
+    "descricao": "Assuma o controle de sua própria nave estelar em uma galáxia implacável. Em Elite Dangerous, você pode explorar, negociar, lutar e sobreviver na era da superpotência galáctica.",
+    "ano": 2014,
+    "link": "https://www.elitedangerous.com/",
+    "imagem": "images/elite-dangerous.jpg",
+    "tags": [
+      "Simulação Espacial",
+      "Mundo Aberto",
+      "Exploração",
+      "Combate",
+      "MMO"
+    ]
+  },
+  {
+    "nome": "The Crew 2",
+    "descricao": "Em The Crew 2, assuma a cena dos esportes a motor americanos enquanto explora e domina a terra, o ar e o mar dos Estados Unidos em um dos mundos abertos mais emocionantes já criados.",
+    "ano": 2018,
+    "link": "https://www.ubisoft.com/pt-br/game/the-crew/the-crew-2",
+    "imagem": "images/the-crew-2.jpg",
+    "tags": [
+      "Corrida",
+      "Mundo Aberto",
+      "Arcade",
+      "Multiplayer",
+      "Carros"
+    ]
+  },
+  {
+    "nome": "Diablo IV",
+    "descricao": "A experiência de RPG de ação definitiva. Diablo IV é a nova geração de RPG de ação com mal sem fim para abater, inúmeras habilidades para dominar, masmorras de pesadelo e saques lendários.",
+    "ano": 2023,
+    "link": "https://diablo4.blizzard.com/pt-br/",
+    "imagem": "images/diablo-iv.jpg",
+    "tags": [
+      "RPG de Ação",
+      "Hack and Slash",
+      "Fantasia Sombria",
+      "Looter",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Deep Rock Galactic",
+    "descricao": "FPS cooperativo de mineração espacial onde quatro anões exploram cavernas geradas proceduralmente, lutando contra enxames de alienígenas.",
+    "data_criacao": "2020",
+    "link": "https://www.deeprockgalactic.com/",
+    "tags": [
+      "cooperativo",
+      "fps",
+      "ficcao_cientifica",
+      "mineracao"
+    ]
+  },
+  {
+    "nome": "Honkai: Star Rail",
+    "descricao": "RPG de ficção científica com combates baseados em turnos, ambientado em um universo vasto explorado a bordo do Astral Express.",
+    "data_criacao": "2023",
+    "link": "https://hsr.hoyoverse.com/",
+    "tags": [
+      "rpg",
+      "gacha",
+      "combate_por_turno",
+      "ficcao_cientifica"
+    ]
+  },
+  {
+    "nome": "Brawl Stars",
+    "descricao": "Arena de batalha multiplayer online (MOBA) frenética e rápida, focada em modos de jogo curtos e personagens únicos ('Brawlers').",
+    "data_criacao": "2018",
+    "link": "https://supercell.com/en/games/brawlstars/",
+    "tags": [
+      "moba",
+      "mobile",
+      "multiplayer",
+      "acao"
+    ]
+  },
+  {
+    "nome": "NARAKA: BLADEPOINT",
+    "descricao": "Battle royale de ação focado em combate corpo a corpo, artes marciais e mobilidade avançada, como ganchos de escalada.",
+    "data_criacao": "2021",
+    "link": "https://www.narakabladepoint.com/",
+    "tags": [
+      "battle_royale",
+      "acao",
+      "combate_corpo_a_corpo",
+      "multiplayer"
+    ]
+  },
+  {
+    "nome": "Roblox",
+    "descricao": "Plataforma massiva que permite aos usuários criar e jogar milhões de jogos em 3D criados pela comunidade.",
+    "data_criacao": "2006",
+    "link": "https://www.roblox.com/",
+    "tags": [
+      "sandbox",
+      "criacao",
+      "multiplayer",
+      "plataforma"
+    ]
+  },
+  {
+    "nome": "VRChat",
+    "descricao": "Experiência de realidade virtual social onde usuários podem interagir com avatares personalizados em mundos criados pela comunidade.",
+    "data_criacao": "2014",
+    "link": "https://hello.vrchat.com/",
+    "tags": [
+      "social",
+      "realidade_virtual",
+      "multiplayer",
+      "comunidade"
+    ]
+  },
+  {
+    "nome": "Grounded",
+    "descricao": "Jogo de sobrevivência onde os jogadores são encolhidos ao tamanho de uma formiga e devem sobreviver em um quintal hostil.",
+    "data_criacao": "2022",
+    "link": "https://grounded.obsidian.net/",
+    "tags": [
+      "sobrevivencia",
+      "cooperativo",
+      "sandbox",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Don't Starve Together",
+    "descricao": "Jogo de sobrevivência cooperativo gótico e sombrio focado em gerenciamento de recursos, combate e sanidade.",
+    "data_criacao": "2016",
+    "link": "https://www.kleientertainment.com/games/dont-starve-together",
+    "tags": [
+      "sobrevivencia",
+      "cooperativo",
+      "indie",
+      "estrategia"
+    ]
+  },
+  {
+    "nome": "Old School RuneScape",
+    "descricao": "Versão de 2007 do popular MMORPG de fantasia, mantida e atualizada separadamente com o voto da comunidade.",
+    "data_criacao": "2013",
+    "link": "https://oldschool.runescape.com/",
+    "tags": [
+      "mmorpg",
+      "fantasia",
+      "rpg",
+      "sandbox"
+    ]
+  },
+  {
+    "nome": "Splitgate",
+    "descricao": "FPS rápido que combina combate de arena clássico com a mecânica de portais que permite travessias e táticas inesperadas.",
+    "data_criacao": "2021",
+    "link": "https://www.splitgate.com/",
+    "tags": [
+      "fps",
+      "multiplayer",
+      "arena",
+      "ficcao_cientifica"
+    ]
+  },
+  {
+    "nome": "Chivalry 2",
+    "descricao": "Slasher multiplayer em primeira pessoa focado em batalhas medievais épicas de 64 jogadores, com combate corpo a corpo tático.",
+    "data_criacao": "2021",
+    "link": "https://chivalry2.com/",
+    "tags": [
+      "combate_medieval",
+      "multiplayer",
+      "acao",
+      "simulacao"
+    ]
+  },
+  {
+    "nome": "Dauntless",
+    "descricao": "RPG de ação cooperativo onde os jogadores caçam feras gigantes ('Behemoths') em um mundo de fantasia fragmentado.",
+    "data_criacao": "2019",
+    "link": "https://playdauntless.com/",
+    "tags": [
+      "rpg_acao",
+      "cooperativo",
+      "fantasia",
+      "gratuito_para_jogar"
+    ]
+  },
+  {
+    "nome": "Temtem",
+    "descricao": "MMORPG de captura de criaturas focado em batalhas 2v2 e exploração de um arquipélago em um ambiente multiplayer persistente.",
+    "data_criacao": "2022",
+    "link": "https://temtem-game.com/",
+    "tags": [
+      "mmorpg",
+      "rpg",
+      "colecionaveis",
+      "multiplayer"
+    ]
+  },
+  {
+    "nome": "Tarisland",
+    "descricao": "MMORPG de fantasia clássico focado em raids complexas e progressão de personagens, visto como um concorrente de jogos ocidentais.",
+    "data_criacao": "2024",
+    "link": "https://www.tarisland.com/",
+    "tags": [
+      "mmorpg",
+      "fantasia",
+      "raids",
+      "multiplayer_massivo"
+    ]
+  },
+  {
+    "nome": "Squad",
+    "descricao": "Simulador de combate tático em primeira pessoa que enfatiza a comunicação, coordenação e trabalho em equipe em grandes mapas.",
+    "data_criacao": "2020",
+    "link": "https://joinsquad.com/",
+    "tags": [
+      "simulacao_militar",
+      "tatico",
+      "fps",
+      "multiplayer"
+    ]
+  },
+  {
+    "nome": "Planetside 2",
+    "descricao": "FPS em larga escala com batalhas persistentes envolvendo milhares de jogadores simultaneamente, lutando por controle de territórios.",
+    "data_criacao": "2012",
+    "link": "https://www.planetside2.com/",
+    "tags": [
+      "fps",
+      "multiplayer_massivo",
+      "guerra",
+      "ficcao_cientifica"
+    ]
+  },
+  {
+    "nome": "Super Animal Royale",
+    "descricao": "Battle royale top-down 2D fofo, onde animais antropomórficos lutam pela sobrevivência com armas hilárias.",
+    "data_criacao": "2021",
+    "link": "https://animalroyale.com/",
+    "tags": [
+      "battle_royale",
+      "indie",
+      "multiplayer",
+      "acao"
+    ]
+  },
+  {
+    "nome": "Bloons TD 6",
+    "descricao": "Jogo de defesa de torre cooperativo em que macacos utilizam torres e habilidades para estourar balões ('Bloons').",
+    "data_criacao": "2018",
+    "link": "https://ninjakiwi.com/Games/Bloons-Tower-Defense/Bloons-TD-6.html",
+    "tags": [
+      "tower_defense",
+      "estrategia",
+      "cooperativo",
+      "casual"
+    ]
+  },
+  {
+    "nome": "Cookie Run: Kingdom",
+    "descricao": "RPG de coleção de heróis e construtor de reinos onde os jogadores constroem uma cidade e lutam com 'Cookies'.",
+    "data_criacao": "2021",
+    "link": "https://www.cookierun-kingdom.com/",
+    "tags": [
+      "mobile",
+      "rpg",
+      "estrategia",
+      "gacha"
+    ]
+  },
+  {
+    "nome": "Crossout",
+    "descricao": "MMO de combate veicular pós-apocalíptico onde os jogadores constroem veículos de guerra únicos com peças modulares e lutam em arenas.",
+    "data_criacao": "2017",
+    "link": "https://crossout.net/",
+    "tags": [
+      "mmo",
+      "combate_veicular",
+      "pos_apocalipse",
+      "construcao"
+    ]
+  },
+  {
+    "nome": "Hyper Scape",
+    "descricao": "Battle royale futurista focado em alta velocidade e verticalidade, ambientado em uma metrópole virtual.",
+    "data_criacao": "2020",
+    "link": "https://www.ubisoft.com/en-us/game/hyper-scape",
+    "tags": [
+      "battle_royale",
+      "fps",
+      "futurista",
+      "acao"
+    ]
+  },
+  {
+    "nome": "KartRider: Drift",
+    "descricao": "Jogo de corrida de kart free-to-play que enfatiza drifting tático e personalização de veículos e personagens.",
+    "data_criacao": "2023",
+    "link": "https://kartriderdrift.nexon.com/",
+    "tags": [
+      "corrida",
+      "multiplayer",
+      "arcade",
+      "esportes"
+    ]
+  },
+  {
+    "nome": "Gigantic: Rampage Edition",
+    "descricao": "Reedição de um hero shooter e MOBA em terceira pessoa, focado em equipes de cinco que protegem uma criatura gigante (Guardian).",
+    "data_criacao": "2024",
+    "link": "https://www.gigantic-thegame.com/",
+    "tags": [
+      "hero_shooter",
+      "moba",
+      "acao",
+      "multiplayer"
+    ]
+  },
+  {
+    "nome": "Rec Room",
+    "descricao": "Um universo social gratuito onde os jogadores criam e exploram salas de jogos, atividades e experiências juntos.",
+    "data_criacao": "2016",
+    "link": "https://www.recroom.com/",
+    "tags": [
+      "social",
+      "realidade_virtual",
+      "criacao",
+      "minijogos"
+    ]
+  },
+  {
+    "nome": "Mordhau",
+    "descricao": "Slasher multiplayer medieval altamente personalizável focado em combate realista e detalhado corpo a corpo em grande escala.",
+    "data_criacao": "2019",
+    "link": "https://mordhau.com/",
+    "tags": [
+      "combate_medieval",
+      "multiplayer",
+      "simulacao",
+      "acao"
+    ]
+  }
+]

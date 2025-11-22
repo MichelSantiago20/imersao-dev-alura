@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Imersão Alura</title>
+    
+</head>
+<body>
+    <header>
+        <h1>Jogos onlines</h1>
+        <div class="controls-container">
+            <div class="search-container">
+                <input type="text" id="campo-busca" placeholder="Digite o nome de um jogo">
+                <button id="botao-busca">Buscar</button>
+            </div>
+            <select id="sort-filter">
+                <option value="default">Ordenar por...</option>
+                <option value="recentes">Mais Recentes</option>
+                <option value="antigos">Mais Antigos</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <div id="results-count"></div>
+        <section class="card-container">
+            <!-- Cards de jogos serão inseridos aqui dinamicamente -->
+        </section>
+        <div id="pagination-container"></div>
+    </main>
+    
+    <footer class="footer">
+        <ul class="footer-links">
+            <li><a href="https://www.youtube.com/">YouTube</a></li>
+            <li><a href="https://www.twitch.tv/">Twitch</a></li>
+            <li><button id="theme-toggle" title="Alternar tema">☀️</button></li>
+        </ul>
+        <div class="footer-copyright">
+            Copyright © 2025 Michel Santiago Todos os direitos reservados.
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

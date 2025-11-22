@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap'); /* Importa a fonte Rajdhani do Google Fonts */
+
+* {
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+}
+
+:root {
+    --primary-color: #8ab4f8; /* Cor primária (azul claro) */
+    --neon-cyan: #00f7ff; /* Cor neon ciano para destaque */
+    --text-color: #e0e0e0; /* Cor de texto principal (cinza claro) */
+    --text-secondary: #a0a0a0; /* Cor de texto secundário (cinza médio) */
+    --bg-color: #121212; /* Cor de fundo (preto/cinza muito escuro) */
+    --card-bg-color: #1a1a1a; /* Cor de fundo para os cards */
+}
+
+body.light-mode {
+    --neon-cyan: #007bff; /* Azul padrão para o tema claro */
+    --text-color: #212529; /* Texto escuro */
+    --text-secondary: #6c757d; /* Texto secundário cinza */
+    --bg-color: #f4f4f9; /* Fundo claro */
+    --card-bg-color: #ffffff; /* Cards brancos */
+}
+
+
+body {
+    margin: 0; /* Remove a margem padrão do body */
+    background-color: var(--bg-color); /* Define a cor de fundo usando uma variável */
+    color: var(--text-color); /* Define a cor do texto padrão usando uma variável */
+    font-family: "Rajdhani", sans-serif; /* Define a família da fonte */
+    background-image: url('1330770.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    padding: 2rem 1rem; /* Espaçamento interno (2rem em cima/baixo, 1rem nos lados) */
+    display: flex; /* Habilita o layout flexbox */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    justify-content: space-around; /* Distribui os itens com espaço ao redor */
+    position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
+    top: 0; /* Posição do topo quando sticky */
+    background: rgba(18, 18, 18, 0.85); /* Fundo com transparência para efeito de profundidade */
+    backdrop-filter: blur(10px); /* Efeito de desfoque no fundo */
+    z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
+    border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
+    gap: 1rem; /* Espaçamento entre os elementos flex */
+}
+
+body.light-mode header {
+    background: rgba(244, 244, 249, 0.85);
+    border-bottom-color: #e0e0e0;
+}
+
+header h1 {
+    font-size: 1.5rem; /* Tamanho da fonte */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    margin: 0; /* Remove a margem padrão */
+    font-weight: 700; /* Peso da fonte (médio) */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+    color: var(--neon-cyan);
+    text-shadow: 0 0 5px var(--neon-cyan), 0 0 10px var(--neon-cyan); /* Efeito de brilho neon */
+}
+
+body.light-mode header h1 {
+    text-shadow: none;
+}
+
+#theme-toggle {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    border-radius: 8px;
+    width: 36px;
+    height: 36px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    line-height: 1;
+}
+
+#theme-toggle:hover {
+    color: var(--neon-cyan);
+    transform: scale(1.1);
+}
+
+.controls-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.search-container input {
+    padding: 0.375rem 0.75rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: 1px solid var(--text-secondary); /* Define a borda */
+    background: transparent; /* Cor de fundo */
+    font-family: inherit; /* Herda a família da fonte do elemento pai */
+    font-size: 1.5rem; /* Tamanho da fonte */
+    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
+    width: 30rem; /* Largura do input */
+    color: var(--text-color); /* Cor do texto digitado */
+    margin-right: .5rem; /* Margem à direita */
+}
+
+.search-container input::placeholder {
+    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
+    font-weight: 300; /* Peso da fonte do placeholder */
+    color: var(--text-secondary); /* Cor do texto do placeholder */
+}
+
+.search-container input:focus {
+    outline: none; /* Remove a borda de foco padrão */
+    border-color: var(--neon-cyan); /* Muda a cor da borda ao focar */
+    box-shadow: 0 0 10px 2px rgba(0, 247, 255, 0.5); /* Adiciona uma sombra de caixa para indicar foco */
+}
+
+body.light-mode .search-container input:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.search-container button {
+    padding: 1rem 2rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: 1px solid var(--neon-cyan); /* Borda com a cor neon */
+    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
+    font-family: inherit; /* Herda a família da fonte */
+    font-weight: 600; /* Peso da fonte */
+    font-size: 1rem; /* Tamanho da fonte */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
+    background-color: transparent; /* Cor de fundo */
+    color: var(--neon-cyan); /* Cor do texto */
+}
+
+.search-container button:hover {
+    background-color: var(--neon-cyan); /* Muda a cor de fundo ao passar o mouse */
+    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 15px 5px rgba(0, 247, 255, 0.5); /* Adiciona uma sombra de caixa */
+}
+
+body.light-mode .search-container button:hover {
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+}
+
+.search-container button:active {
+    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+
+#sort-filter {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: 1px solid var(--text-secondary);
+    padding: 0.9rem 1rem;
+    border-radius: 1rem;
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#sort-filter:hover {
+    border-color: var(--neon-cyan);
+    color: var(--neon-cyan);
+}
+
+#sort-filter option {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+#results-count {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+main {
+    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
+    max-width: 80rem; /* Largura máxima do conteúdo principal */
+    margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
+    margin-top: 2rem; /* Margem no topo */
+    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+}
+
+article {
+    background: var(--card-bg-color); /* Fundo sutil para o card */
+    border-radius: 8px; /* Bordas levemente arredondadas */
+    margin-bottom: 1.25rem; /* Margem inferior */
+    animation: fadeIn 0.5s ease-out forwards;
+    border: 1px solid #2a2a2a; /* Borda sutil */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease; /* Transição suave */
+}
+
+article:hover {
+    transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+    border-color: var(--neon-cyan);
+    box-shadow: 0 0 20px rgba(0, 247, 255, 0.3); /* Brilho suave ao passar o mouse */
+}
+
+body.light-mode article {
+    border-color: #dee2e6;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+}
+
+.card-content {
+    padding: 1.5rem;
+}
+
+article h2 {
+    margin-top: 0; /* Remove a margem superior */
+    font-weight: 600; /* Peso da fonte */
+    font-size: 1.6rem; /* Tamanho da fonte */
+    text-transform: uppercase;
+    border-bottom: none; /* Sem borda inferior */
+    padding-bottom: 0; /* Sem espaçamento interno inferior */
+    margin-bottom: 0.25rem; /* Margem inferior */
+    color: var(--neon-cyan); /* Cor do texto */
+}
+
+article p {
+    margin: 0.5rem 0; /* Margem superior e inferior */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    font-size: 1rem; /* Tamanho da fonte */
+    font-weight: 300;
+    margin-bottom: 0.5rem; /* Margem inferior */
+    color: var(--text-color); /* Cor do texto */
+}
+
+article p strong {
+    color: var(--text-secondary); /* Cor do texto em negrito */
+    font-weight: 500; /* Peso da fonte */
+}
+
+article a {
+    display: inline-block; /* Permite aplicar margin-top */
+    margin-top: 1rem;
+    color: var(--neon-cyan); /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    font-weight: 200; /* Peso da fonte */
+}
+
+article a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+.footer {
+    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
+    bottom: 0; /* Alinha na parte inferior */
+    left: 0; /* Alinha à esquerda */
+    width: 100%; /* Largura total */
+    color: var(--text-secondary); /* Cor do texto */
+    background-color: var(--bg-color); /* Cor de fundo */
+    padding: 15px 20px; /* Espaçamento interno */
+    border-top: 1px solid #3c4043; /* Borda superior */
+    font-size: 0.9rem; /* Tamanho da fonte */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+body.light-mode .footer {
+    background-color: #e9ecef;
+    border-top-color: #ced4da;
+}
+
+.footer-links {
+    list-style: none; /* Remove os marcadores da lista */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Habilita o layout flexbox */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    gap: 15px; /* Espaçamento entre os links */
+}
+
+.footer-links li {
+    display: flex;
+    align-items: center;
+}
+
+.footer-links a {
+    color: var(--text-color); /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: color 0.2s; /* Transição suave para a cor */
+}
+
+.footer-links a:hover {
+    color: var(--neon-cyan); /* Muda a cor do link ao passar o mouse */
+}
+
+.footer-copyright {
+    font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+    header { /* Estilos para telas com largura máxima de 768px */
+        flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
+        padding: 1rem; /* Reduz o espaçamento interno */
+    }
+
+    header h1 { /* Estilos para o h1 no cabeçalho em telas menores */
+        text-align: center; /* Centraliza o texto */
+        margin-bottom: 1rem; /* Adiciona margem inferior */
+    }
+
+    .search-container input { /* Estilos para o input em telas menores */
+        width: 80vw; /* Largura baseada na largura da viewport */
+        font-size: 1.2rem; /* Reduz o tamanho da fonte */
+    }
+
+    main { /* Estilos para o main em telas menores */
+        padding: 0 1rem; /* Adiciona espaçamento lateral */
+    }
+
+    article:hover { /* Estilos para o article em telas menores */
+        transform: none; /* Remove o efeito de escala ao passar o mouse */
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
+        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+        max-width: 70%; /* Define uma largura máxima */
+        word-wrap: break-word; /* Permite a quebra de palavras longas */
+    }
+
+    .search-container input, /* Estilos para o input e seu placeholder em telas muito pequenas */
+    .search-container input::placeholder {
+        font-size: 1rem; /* Reduz o tamanho da fonte */
+    }
+
+    article h2 { /* Estilos para o h2 do article em telas muito pequenas */
+        font-size: 1.3rem; /* Reduz o tamanho da fonte */
+    }
+
+    .search-container { /* Estilos para a div do cabeçalho em telas muito pequenas */
+        display: flex; /* Habilita flexbox */
+        align-items: center; /* Alinha itens ao centro */
+        justify-content: center; /* Centraliza itens */
+        flex-direction: column; /* Organiza em coluna */
+        gap: 0.5rem; /* Espaçamento entre os itens */
+    }
+
+    .footer { /* Estilos para o rodapé em telas muito pequenas */
+        display: none; /* Oculta o rodapé */
+    }
+
+    .search-container button { /* Estilos para o botão em telas muito pequenas */
+        margin-top: 1rem; /* Adiciona margem no topo */
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+    gap: 0.5rem;
+}
+
+.pagination-button {
+    background-color: transparent;
+    border: 1px solid var(--text-secondary);
+    color: var(--text-secondary);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.pagination-button:hover {
+    background-color: var(--neon-cyan);
+    color: var(--bg-color);
+    border-color: var(--neon-cyan);
+}
+
+.pagination-button.active {
+    background-color: var(--neon-cyan);
+    color: var(--bg-color);
+    border-color: var(--neon-cyan);
+    font-weight: bold;
+}
